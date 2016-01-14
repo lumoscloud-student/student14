@@ -1,4 +1,4 @@
 # student14
-Make reasonalbe choices!
+Make reasonable choices!
 
 
