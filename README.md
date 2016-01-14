@@ -1,5 +1,4 @@
 # student14
-testing testing
-testing 2
+Make reasonalbe choices!
 
 
